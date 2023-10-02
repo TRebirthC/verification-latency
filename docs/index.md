@@ -10,14 +10,14 @@ layout: default
 This catalog of papers are the result of a systematic study that was aimed to summarize how Code Review research has evolved into its current state over the last decade. The collection includes descriptions for the 148 collected papers from 53 conferences, 16 journals, and 79 snowball papers.
 
 # Pages
-* [Code Review Papers](https://naist-se.github.io/code-review/publications/)
-* [Code Review Dataset](https://naist-se.github.io/code-review/dataset/)
-* [Conferences and Journals for Code Review](https://naist-se.github.io/code-review/submissions.html)
-* (External Link) [GitHub repository of this script and data](https://github.com/NAIST-SE/code-review)
+* [Code Review Papers](https://trebirthc.github.io/verification-latency/publications/)
+* [Code Review Dataset](https://trebirthc.github.io/verification-latency/dataset/)
+* [Conferences and Journals for Code Review](https://trebirthc.github.io/verification-latency/submissions.html)
+* (External Link) [GitHub repository of this script and data](https://github.com/TRebirthC/verification-latency)
 
 ## Contributions
 
-We hope that you will contribute the catalog of papers. Please put your paper from [here](https://github.com/NAIST-SE/code-review.github.io/blob/master/docs/CONTRIBUTING.md#adding-your-PAPER)
+We hope that you will contribute the catalog of papers. Please put your paper from [here](https://github.com/TRebirthC/verification-latency.github.io/blob/master/docs/CONTRIBUTING.md#adding-your-PAPER)
 
 # Project members
 
