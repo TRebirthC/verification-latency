@@ -19,9 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Code review publications that are impactful.
 baseurl: "/verification-latency" # the subpath of your site, e.g. /blog
 url: "https://TRebirthC.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: selabnaist
-github_username:  NAIST-SE
-email: wang.dong.vt8@is.naist.jp
+# twitter_username: selabnaist
+github_username:  TRebirthC
+email: 12132358@mail.sustech.edu.cn
 
 
 collections:
