@@ -17,7 +17,7 @@ This catalog of papers are the result of a systematic study that was aimed to su
 
 ## Contributions
 
-We hope that you will contribute the catalog of papers. Please put your paper from [here](https://github.com/TRebirthC/verification-latency.github.io/blob/master/docs/CONTRIBUTING.md#adding-your-PAPER)
+We hope that you will contribute the catalog of papers. Please put your paper from [here](https://github.com/TRebirthC/verification-latency/blob/master/docs/CONTRIBUTING.md#adding-your-PAPER)
 
 # Project members
 
