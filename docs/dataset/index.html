@@ -17,28 +17,24 @@ permalink: /dataset/
  </tbody>
 </table>
 <table id="allPapers">
-  <thead><th onclick="sortTable(0)">Paper</th>
-         <th onclick="sortTable(1)">Link URL</th>
-         <th onclick="sortTable(2)">Script to Collect Data</th>
-         <th onclick="sortTable(3)">Host</th>
-         <th onclick="sortTable(4)">Accessible</th>
+  <thead><th onclick="sortTable(0)">Name</th>
+         <th onclick="sortTable(1)"># Instances</th>
+         <th onclick="sortTable(2)"># Attributes</th>
+         <th onclick="sortTable(3)"># Classes</th>
+         <th onclick="sortTable(4)">Imbalance ratio</th>
+         <th onclick="sortTable(5)">Link</th>
 
          </thead><tbody>
-  {% assign datasetByTitle = site.dataset | sort: "title" | group_by: "title" %}
+  {% assign datasetByTitle = site.dataset | sort: "name" | group_by: "name" %}
   {% for datasets in datasetByTitle %}
   {% for dataset in datasets.items %}
   <tr>
-    <td><a href="{{site.baseurl}}/publications/{{ dataset.publication_id }}">{{dataset.title}}</a>
-      <!-- <span class="externallinks">
-        &nbsp;<a href='http://scholar.google.com/scholar?q={{ dataset.title }}' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
-        <a href='https://www.semanticscholar.org/search?q={{ dataset.title }}' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
-        <a href='http://academic.microsoft.com/#/search?iq={{ dataset.title | uri_escape }}' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/ms-academic.png"/></a>
-      </span> -->
-    </td>
+    <td>{{ dataset.name }}</td>
+    <td>{{ dataset.instances }}</td>
+    <td>{{ dataset.attributes }}</td>
+    <td>{{ dataset.classes }}</td>
+    <td>{{ dataset.imb_ratio }}</td>
     <td><a href="{{ dataset.link }}">{{ dataset.link }}</a></td>
-    <td><a href="{{ dataset.source }}">{{ dataset.source }}</a></td>
-    <td>{{ dataset.host }}</td>
-    <td>{{ dataset.available }}</td>
   </tr>
   {% endfor %}
   {% endfor %}
