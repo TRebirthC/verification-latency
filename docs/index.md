@@ -21,8 +21,6 @@ We hope that you will contribute the catalog of papers. Please put your paper fr
 
 # Project members
 
-* Dong Wang (<wang.dong.vt8@is.naist.jp>)
-* [Yuki Ueda](https://ikuyadeu.github.io/)
-* [Raula Gaikovina Kula](https://raux.github.io/)
-* [Takashi Ishio](https://takashi-ishio.github.io/)
-* [Kenichi Matsumoto](http://isw3.naist.jp/~matumoto/)
+* Cong Teng (12132358@mail.sustech.edu.cn>)
+* Zixin Zhong
+* [Liyan Song](https://sunnysong14.github.io/research.html)
