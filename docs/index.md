@@ -7,7 +7,7 @@ layout: default
 
 # About
 
-This catalog of papers are the result of a systematic study that was aimed to summarize how Code Review research has evolved into its current state over the last decade. The collection includes descriptions for the 148 collected papers from 53 conferences, 16 journals, and 79 snowball papers.
+This catalog of papers are the result of a systematic literature review about the verification latency.
 
 # Pages
 * [Code Review Papers](https://trebirthc.github.io/verification-latency/publications/)
