@@ -12,7 +12,6 @@ This catalog of papers are the result of a systematic literature review about th
 # Pages
 * [Code Review Papers](https://trebirthc.github.io/verification-latency/publications/)
 * [Code Review Dataset](https://trebirthc.github.io/verification-latency/dataset/)
-* [Conferences and Journals for Code Review](https://trebirthc.github.io/verification-latency/submissions.html)
 * (External Link) [GitHub repository of this script and data](https://github.com/TRebirthC/verification-latency)
 
 ## Contributions
