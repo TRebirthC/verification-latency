@@ -14,10 +14,6 @@ This catalog of papers are the result of a systematic literature review about th
 * [Code Review Dataset](https://trebirthc.github.io/verification-latency/dataset/)
 * (External Link) [GitHub repository of this script and data](https://github.com/TRebirthC/verification-latency)
 
-## Contributions
-
-We hope that you will contribute the catalog of papers. Please put your paper from [here](https://github.com/TRebirthC/verification-latency/blob/master/docs/CONTRIBUTING.md#adding-your-PAPER)
-
 # Project members
 
 * Cong Teng (12132358@mail.sustech.edu.cn>)
