@@ -5,7 +5,7 @@ You can add your app by creating [new file in `_dataset`](https://github.com/TRe
 ```yaml
 ---
 #  Dataset name
-name: 'Title of the Publication'
+name: 'Name of the dataset'
 # The number of instances
 instances: '45,312'
 # The number of attributes
