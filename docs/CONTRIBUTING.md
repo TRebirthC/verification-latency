@@ -1,6 +1,6 @@
 ## Adding your publication
 
-You can add your app by creating [new file in `_publications`](https://github.com/TRebirthC/verification-latency.github.io/new/master?filename=docs/_publications/your-publication-name.md)
+You can add your app by creating [new file in `_publications`](https://github.com/TRebirthC/verification-latency/new/main?filename=docs/_publications/your-publication-name.md)
 
 ```yaml
 ---
