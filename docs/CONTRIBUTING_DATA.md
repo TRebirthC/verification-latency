@@ -1,4 +1,4 @@
-## Adding your publication
+## Adding your dataset
 
 You can add your app by creating [new file in `_dataset`](https://github.com/TRebirthC/verification-latency/new/main?filename=docs/_dataset/dataset-name.md)
 
